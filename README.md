@@ -13,7 +13,7 @@ Hey there! I'm Shola, a spellbinding Full Stack Developer based in the United Ki
 - 🎓 8+ years building modern web applications, APIs & digital products
 - ⚛️ Proficient in React, Node.js & TypeScript, from pixel to database
 - 📱 Creator of [Owosu](https://play.google.com/store/apps/details?id=com.owosu.owosu), a Flutter bill-reminder app live on Google Play
-- 🖌️ Skilled in UI/UX design, crafting intuitive, user-centric experiences
+- 🤖 Exploring AI and putting it to work in real projects
 - 🌍 Portfolio, projects & blog live at [adesho.la](https://adesho.la)
 
 Beyond coding, I am always shipping side projects and exploring new ideas in the product space.
