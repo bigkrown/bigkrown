@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
 <h1 align="center">✨ Full Stack Developer • UI Innovator • Design Enthusiast ✨</h1>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3500&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=I+turn+ideas+into+shipped+products+💡;React+%E2%80%A2+Node.js+%E2%80%A2+TypeScript+⚛️;8%2B+years+building+for+the+web+🚀;Owosu+is+live+on+Google+Play+📱;Explore+my+work+at+adesho.la+🌐)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3500&pause=1000&color=FF6B6B&center=true&vCenter=true&width=1000&lines=I+build+software%2C+explore+AI%2C+and+turn+ideas+into+reality+💡;React+%E2%80%A2+Node.js+%E2%80%A2+TypeScript+⚛️;8%2B+years+building+for+the+web+🚀;Owosu+is+live+on+Google+Play+📱;Explore+my+work+at+adesho.la+🌐)](https://git.io/typing-svg)
 </p>
 
 ---
